@@ -1,0 +1,54 @@
+Installing Anaconda distribution:
+conda install -c anaconda anaconda-navigator​
+anaconda-navigator
+
+Python IDES for development:
+PyCharm
+Eclipse
+Spyder 
+Jupyter-Notebook
+
+
+Create a first Python Project and run it via IDE/terminal:
+
+Python Basics: https://github.com/realpython/python-basics-exercises
+first python program
+Create a Variable - Int, Float, Boolean, String, Lists, Dicts, Tuples
+Functions/ Methods- create , call a method
+Control Statements - if,elif
+loops/ iterators: for, while,
+
+OOPS: Take a Break (for data Analytics OOPS is not needed at initial level)
+Advanced APIS for Data Analytics:
+Pandas Dataframe Capabilities/APIs:
+Attributes- 
+	columns, dtypes, index, shape, T, values
+
+Aggregation(result in a single value for each column:  
+	all, any, count, describe, idxmax, idxmin, max, mean, median, min, mode, 		nunique, sum, std, var
+
+Non-Aggretaion Statistical Methods: 
+        abs, clip, corr, cov, cummax, cummin, cumprod, cumsum, diff, nlargest,
+	nsmallest, pct_change, prod, quantile, rank, round
+
+Subset Selection: head, iloc, loc, tail
+
+Missing Value Handling: dropna, fillna, interpolate, isna, notna
+
+Grouping: expanding, groupby, pivot_table, resample, rolling
+
+Joining Data: append, merge
+
+Miscelleneous: asfreq, astype, copy, drop, drop_duplicates, equals, isin, melt, plot, rename, replace, reset_index, sample, select_dtypes, shift, sort_index, sort_values, to_csv, to_json, to_sql, pd.concat, pd.crosstab, pd.cut, pd.qcut, pd.read_csv, pd.read_json, pd.read_sql, pd.to_datetime, pd.to_timedelta
+
+Numpy: 
+Scikit Learn:
+MatplotLib & SeaBorn:
+
+Django and Flask:
+
+
+
+
+
+
